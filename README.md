@@ -40,7 +40,7 @@ Berikut adalah langkah - langkahnya :
     - php artisan config:cache
     - php artisan view:clear
     - php artisan cache:clear
-    - php artisan key:generate
+    - php artisan key:generate (*Note untuk mendapatkan generate key yg baru di .env)
     - php artisan serve (*Note untuk menjalan program ini)
 7. Setelah semuanya beres, lalu buka dibrowser kalian. Happy Coding :)
 
