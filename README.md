@@ -47,7 +47,13 @@ Berikut adalah langkah - langkahnya :
 
 ## ScreenShot
 
+    #Login
+
 ![Login](https://github.com/Dhanz199/Laravel9.x-Crud-Sweet/assets/68377029/9f934ec1-f693-4828-8dc7-0a6d82b15904)
+
+    #Dashboard
+
+![Dashboard](https://github.com/Dhanz199/Laravel9.x-Crud-Sweet/assets/68377029/cf6ebbd6-8252-4974-bbf7-23f62e34aa31)
 
 ## Contributing
 
