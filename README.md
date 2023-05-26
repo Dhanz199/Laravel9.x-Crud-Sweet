@@ -23,9 +23,26 @@ Berikut adalah beberapa fitur dan konsep penting dalam Laravel:
 8. Pengujian: Laravel menyediakan berbagai alat pengujian yang terintegrasi untuk memudahkan pengujian otomatis dalam aplikasi, termasuk pengujian unit dan pengujian fitur.
 Laravel sangat populer di komunitas pengembang web karena kombinasi antara kemudahan penggunaan, fleksibilitas, dan fitur-fitur yang lengkap.
 
-## Cara Penggunaan Crud ini
+## Cara Instalasi
 
+Sebelum anda mendownload folder zip ini, sebaiknya anda perhatikan langkah-langkahnya agar anda bisa langsung menggunakannya :
 
+Berikut adalah langkah - langkahnya :
+
+1. Download dahulu folder zip ini setelah didownload, lalu extract folder zip ini dimana saja.
+2. Copy dan Paste file yang bernama (".env.example") lalu di rename dengan nama (".env") *Tanpa tanda kutip.
+3. Selanjutnya, buka terminal (Bisa menggunakan terminal di vs code atau klik kanan git bash here *Jika sudah instalasi Git).
+4. Setelah terbuka di vs code, lalu buka terminal ketik beberapa perintah ini : 
+    - composer update
+    - npm install sweetalert2 (*Note Karna saya menggunakan sweetAlertV2)
+5. Jika nmr 4 sudah, pasti didalam folder kalian terdapat (vendor) dan (node_modules)
+6. Masih di dalam terminal vscode, ketikkan perintah diterminal tersebut :
+    - php artisan config:cache
+    - php artisan view:clear
+    - php artisan cache:clear
+    - php artisan key:generate
+    - php artisan serve (*Note untuk menjalan program ini)
+7. Setelah semuanya beres, lalu buka dibrowser kalian. Happy Coding :)
 
 ## ScreenShot
 
