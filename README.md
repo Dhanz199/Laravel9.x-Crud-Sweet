@@ -11,6 +11,10 @@
 
 Laravel adalah kerangka kerja (framework) aplikasi web berbasis PHP yang populer. Dikembangkan oleh Taylor Otwell, Laravel dirancang untuk memudahkan pengembangan aplikasi web dengan menyediakan sintaks yang ekspresif dan elegan. Dengan menggunakan Laravel, pengembang dapat mempercepat proses pembuatan aplikasi web yang kompleks dengan menyediakan berbagai fitur dan alat yang siap pakai.
 
+Berikut adalah beberapa fitur dan konsep penting dalam Laravel:
+
+1. Routing: Laravel menyediakan sistem routing yang fleksibel untuk mengatur permintaan HTTP ke berbagai tindakan dalam aplikasi.
+2. MVC: Laravel mengikuti pola desain MVC (Model-View-Controller) yang memisahkan logika aplikasi, tampilan, dan logika basis data menjadi komponen-komponen terpisah, sehingga mempermudah pengembangan dan pemeliharaan kode.
 Laravel sangat populer di komunitas pengembang web karena kombinasi antara kemudahan penggunaan, fleksibilitas, dan fitur-fitur yang lengkap.
 
 ## Learning Laravel
