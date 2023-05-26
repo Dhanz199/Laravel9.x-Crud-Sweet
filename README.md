@@ -15,6 +15,12 @@ Berikut adalah beberapa fitur dan konsep penting dalam Laravel:
 
 1. Routing: Laravel menyediakan sistem routing yang fleksibel untuk mengatur permintaan HTTP ke berbagai tindakan dalam aplikasi.
 2. MVC: Laravel mengikuti pola desain MVC (Model-View-Controller) yang memisahkan logika aplikasi, tampilan, dan logika basis data menjadi komponen-komponen terpisah, sehingga mempermudah pengembangan dan pemeliharaan kode.
+3. ORM (Object-Relational Mapping): Laravel menyediakan ORM yang disebut Eloquent, yang memungkinkan pengembang untuk berinteraksi dengan basis data menggunakan objek dan metode-metode pemodelan, daripada menulis kueri SQL langsung.
+4. Migration: Laravel menyediakan fitur migrasi yang memungkinkan pengembang untuk mengelola skema basis data secara terstruktur dan mudah diubah melalui kode.
+5. Sistem Template: Laravel menggunakan Blade sebagai sistem template untuk memisahkan logika tampilan dari logika aplikasi, dengan menyediakan sintaks yang kuat dan fitur-fitur seperti warisan (inheritance) template dan komponen-komponen reusable.
+6. Keamanan: Laravel memiliki fitur keamanan bawaan seperti proteksi dari serangan injeksi SQL, serangan lintas situs (XSS), dan serangan penolakan layanan (DDoS). Laravel juga menyediakan sistem otentikasi dan otorisasi yang kuat.
+7. Caching: Laravel mendukung caching untuk meningkatkan kinerja aplikasi dengan menyimpan hasil pemrosesan yang mahal secara biaya, seperti hasil kueri basis data, dalam cache.
+8. Pengujian: Laravel menyediakan berbagai alat pengujian yang terintegrasi untuk memudahkan pengujian otomatis dalam aplikasi, termasuk pengujian unit dan pengujian fitur.
 Laravel sangat populer di komunitas pengembang web karena kombinasi antara kemudahan penggunaan, fleksibilitas, dan fitur-fitur yang lengkap.
 
 ## Learning Laravel
