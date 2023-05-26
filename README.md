@@ -9,17 +9,20 @@
 
 ## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Laravel adalah kerangka kerja (framework) aplikasi web berbasis PHP yang populer. Dikembangkan oleh Taylor Otwell, Laravel dirancang untuk memudahkan pengembangan aplikasi web dengan menyediakan sintaks yang ekspresif dan elegan. Dengan menggunakan Laravel, pengembang dapat mempercepat proses pembuatan aplikasi web yang kompleks dengan menyediakan berbagai fitur dan alat yang siap pakai.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Berikut adalah beberapa fitur dan konsep penting dalam Laravel:
+    - Routing: Laravel menyediakan sistem routing yang fleksibel untuk mengatur permintaan HTTP ke berbagai tindakan dalam aplikasi.
+    - MVC: Laravel mengikuti pola desain MVC (Model-View-Controller) yang memisahkan logika aplikasi, tampilan, dan logika basis data menjadi komponen-komponen terpisah, sehingga mempermudah pengembangan dan pemeliharaan            kode.
+    - ORM (Object-Relational Mapping): Laravel menyediakan ORM yang disebut Eloquent, yang memungkinkan pengembang untuk berinteraksi dengan basis data menggunakan objek dan metode-metode pemodelan, daripada menulis                 kueri SQL langsung.
+    - Migration: Laravel menyediakan fitur migrasi yang memungkinkan pengembang untuk mengelola skema basis data secara terstruktur dan mudah diubah melalui kode.
+    - Sistem Template: Laravel menggunakan Blade sebagai sistem template untuk memisahkan logika tampilan dari logika aplikasi, dengan menyediakan sintaks yang kuat dan fitur-fitur seperti warisan (inheritance) template
+        dan komponen-komponen reusable.
+    - Keamanan: Laravel memiliki fitur keamanan bawaan seperti proteksi dari serangan injeksi SQL, serangan lintas situs (XSS), dan serangan penolakan layanan (DDoS). Laravel juga menyediakan sistem otentikasi dan                       otorisasi yang kuat.
+    - Caching: Laravel mendukung caching untuk meningkatkan kinerja aplikasi dengan menyimpan hasil pemrosesan yang mahal secara biaya, seperti hasil kueri basis data, dalam cache.
+    - Pengujian: Laravel menyediakan berbagai alat pengujian yang terintegrasi untuk memudahkan pengujian otomatis dalam aplikasi, termasuk pengujian unit dan pengujian fitur.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Laravel sangat populer di komunitas pengembang web karena kombinasi antara kemudahan penggunaan, fleksibilitas, dan fitur-fitur yang lengkap.
 
 ## Learning Laravel
 
