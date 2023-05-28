@@ -23,7 +23,7 @@ Berikut adalah beberapa fitur dan konsep penting dalam Laravel:
 8. Pengujian: Laravel menyediakan berbagai alat pengujian yang terintegrasi untuk memudahkan pengujian otomatis dalam aplikasi, termasuk pengujian unit dan pengujian fitur.
 Laravel sangat populer di komunitas pengembang web karena kombinasi antara kemudahan penggunaan, fleksibilitas, dan fitur-fitur yang lengkap.
 
-## Cara Instalasi
+## Installation & updates
 
 Sebelum anda mendownload folder zip ini, sebaiknya anda perhatikan langkah-langkahnya agar anda bisa langsung menggunakannya :
 
@@ -54,15 +54,3 @@ Berikut adalah langkah - langkahnya :
     #Dashboard
 
 ![Dashboard](https://github.com/Dhanz199/Laravel9.x-Crud-Sweet/assets/68377029/cf6ebbd6-8252-4974-bbf7-23f62e34aa31)
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-
-
-
