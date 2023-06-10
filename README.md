@@ -25,6 +25,8 @@ Laravel sangat populer di komunitas pengembang web karena kombinasi antara kemud
 
 ## Installation & updates
 
+`Project Crud Sederhana`
+
 Sebelum anda mendownload folder zip ini, sebaiknya anda perhatikan langkah-langkahnya agar anda bisa langsung menggunakannya :
 
 Berikut adalah langkah - langkahnya :
